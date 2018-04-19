@@ -1,4 +1,4 @@
-#SharedStack
+# SharedStack
 Implementation of stack functions in C that I did as part of my OS Lab
 
 The shstack1.c and shstack1.h are respectively c and header files for integer stack using shared memory.
